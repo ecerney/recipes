@@ -1,6 +1,11 @@
 [
     {
         "name": "My Test Recipe",
+        "ingredients": [],
+        "steps": [],
+        "timers": [],
+        "imageURL": "",
+        "originalURL": ""
     },
     {
         "name": "Crock Pot Roast",
